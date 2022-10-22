@@ -104,5 +104,4 @@ node_modules/
 # .tern-port
 
 *.Identifier
-kube_config.yml
 terraform.tfvars
