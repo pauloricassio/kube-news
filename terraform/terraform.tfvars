@@ -1,3 +1,3 @@
-do_token = "dop_v1_b6875c002197cf4d6b7457b36d4d5c383359f8c62a2d0253f640c6cfe4f7e54e"
+do_token = "dop_v1_65267a726131dc7e3983684ebf7b966687462e899fb5ff39c0e42e7275076acb"
 ssk_key_name = "Jornada"
 region = "nyc1"
