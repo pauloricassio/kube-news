@@ -105,3 +105,4 @@ node_modules/
 
 *.Identifier
 terraform.tfvars
+kube_config.yml
